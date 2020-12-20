@@ -4,7 +4,7 @@ SwiftNIO simple RPC, just for learn!
 
 # 使用
 
-````sh
+```sh
 $ git clone https://github.com/swiftdo/rpc.git
 $ cd rpc
 $ swift run rpc server
